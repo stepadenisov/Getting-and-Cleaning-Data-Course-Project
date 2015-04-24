@@ -1,10 +1,10 @@
 This file describes variable names of dataset "output_data.csv"
 
 First two columns are:
-subj - number of subject
-activity - type of activity performed by subject
+* subj - number of subject
+* activity - type of activity performed by subject
 
-Remaining columns are features (descibes below). Feature variables were averaged for each activity and each subject.
+Remaining columns are features (descibes below). Feature variables presented in this dataset were averaged for each activity and each subject.
 
 Feature Selection
 
